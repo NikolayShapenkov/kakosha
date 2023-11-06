@@ -1,0 +1,9 @@
+a.button-scriptsUser:after {
+    content: "";
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    background: red;
+    margin-bottom: 8px;
+    border-radius: 50%;
+}
